@@ -1,0 +1,11 @@
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (1, 'powiekszonymagazynek', 'Uzatılmış Şarjör', 1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (2, 'kompensator', 'Namlu Ucu', 1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (3, 'MountedScope', 'MK2 Tab. Dürbünü', 0.3, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (5, 'celownikdluga', 'Tüfek Dürbünü', 0.6, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (8, 'mediumscope', 'Orta Dürbün', 0.5, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (9, 'largescope', 'Uzun Dürbün', 0.7, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (10, 'holografik', 'Holografik Dürbün', 0.1, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (17, 'tactitalmuzle', 'Taktiksel Namlu Freni', 0.2, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (26, 'flashlight', 'Silah Feneri', 0.4, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (27, 'Suppressor', 'Susturucu', 0.5, 0, 1);
+INSERT INTO `items` (`id`, `name`, `label`, `weight`, `rare`, `can_remove`) VALUES (28, 'grip', 'Tüfek Kabzası', 0.2, 0, 1);
